@@ -1,6 +1,6 @@
 # Desafio Final VTEX Hiring Coders 2021 - Grupo 03
 
-## Parte integrante do desafio principal
+## Parte integrante do desafio principal (https://github.com/hiringcoders202103/corebiz-store)
 <br>
 Desenvolvido como parte do treinamento VTEX - Hiring Coders 2021.
 <br>
